@@ -1,0 +1,20 @@
+body
+{
+  background-color: #334756;
+  height: 100vh;
+}
+form
+{
+
+margin: 50px 290px;
+  background-color: #D4ECDD;
+
+  display: flex;
+  flex-direction: column;
+  gap:40px 40px;
+  align-items: center;
+}
+.a label
+{
+  font-size: 25px;
+}
